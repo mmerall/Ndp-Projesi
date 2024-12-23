@@ -1,0 +1,71 @@
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.exe
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.deps.json
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.runtimeconfig.json
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.pdb
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form1.resources
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Properties.Resources.resources
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Resources.Form2.resources
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.GenerateResource.cache
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.AssemblyInfo.cs
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\refint\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.pdb
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.genruntimeconfig.cache
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\ref\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Resources.Form3.resources
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form4.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.exe
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.deps.json
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.runtimeconfig.json
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.pdb
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form1.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form4.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Properties.Resources.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Resources.Form2.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Resources.Form3.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.GenerateResource.cache
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.AssemblyInfo.cs
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\refint\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.pdb
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.genruntimeconfig.cache
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\ref\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form5.resources
+C:\Users\misra\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form6.resources
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form5.resources
+C:\Users\misra\OneDrive\Masaüstü\NDP PROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form6.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.exe
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.deps.json
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.runtimeconfig.json
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.pdb
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form1.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form4.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form5.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Form6.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Properties.Resources.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Resources.Form2.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.Resources.Form3.resources
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.GenerateResource.cache
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.AssemblyInfo.cs
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\refint\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.pdb
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.genruntimeconfig.cache
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\ref\Kuaför_Randevu_Uygulaması.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaför_Randevu_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\misra\OneDrive\Masaüstü\NDPPROJE\Kuaför_Randevu_Uygulaması\obj\Debug\net8.0-windows\Kuaf_r_R.41DA031E.Up2Date
